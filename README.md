@@ -35,9 +35,3 @@ $ universe.h : contains the declarations of all functions needed for the game of
 ```
 $ Makefile: compiler for program
 ```
-```
-$ DESIGN.pdf: design of program
-```
-```
-$ WRITEUP.pdf: writeup displaying results and learnings from creating the program
-```
